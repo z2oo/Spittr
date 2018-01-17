@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Spring-4.3.6.RELEASE" type="spring">
+    <properties version="4.3.6.RELEASE" />
+    <CLASSES>
+      <root url="jar://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib/servlet-api.jar!/" />
+      <root url="file://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib" />
+      <root url="file://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib" />
+      <root url="jar://E:/Jars/hibernate-validator-6.0.7.Final.jar!/" />
+      <root url="jar://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib/dist/lib/required/validation-api-2.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib" />
+      <root url="file://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib/mysql-connector-java-5.1.44/src" />
+    </SOURCES>
+    <jarDirectory url="file://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib" recursive="false" />
+    <jarDirectory url="file://E:/tomcat9.0/apache-tomcat-9.0.1-windows-x64/apache-tomcat-9.0.1/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
